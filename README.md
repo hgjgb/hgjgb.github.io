@@ -8,11 +8,13 @@ I'm a fan of minecraft.
 
 As a loyal player of minecraft, I will put the final poem at the bottom, which you can refer to.
 
-I am learning C + + and algorithms that can be implemented through it.
+I am learning C + + and algorithms that can be implemented through it,too.
 
 Although I'm not very good,
 
-**If you found some problems,please leaving a message at Github.**
+~~Of course I don't play minecraft full-time~~
+
+**If you found some wrong things,please leaving a message at Github.**
 
 ## Blog List:
 
